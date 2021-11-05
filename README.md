@@ -2,7 +2,7 @@
 
 <param ve-config
        title="The Expansion of Sugar CUltivation in Cuba during the 19th Century"
-       banner="https://upload.wikimedia.org/wikipedia/commons/9/94/Cutting_Cane%2C_Sugar_Industry%2C_Cuba_%28NYPL_b12647398-67658%29.tiff"
+       banner="https://upload.wikimedia.org/wikipedia/commons/b/b3/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006_%28square%29.jpg"
 author="HIST 1353">
 
 <param ve-entity eid="Q241"> <!-- Cuba -->
